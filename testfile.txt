@@ -2,3 +2,5 @@
 3/4/20 a room that is just spinning lasers and glowing neon shapes?? or, is that the connecting bits? i dunno. to begin with, make it the connectors. so instead of just boring corridors, it's a corridor with rotating glowing neon tunnels you walk through.\
 2.2.2 ACHIEVED! holy ,moly i totally did it. well, some of this is pretty clunky and placeholder, but it works wwell enough to know that i can actually do all these features. w00t w00t.}
 1/1/1 adding in a new thing just to test it
+10/10/20 ok ok, so i think i'm planning to release the first version of this in a month. so: from this day forth, i hereby declare no more "things" should be added. i mean, i need to focus on getting everything there working properly. it's definitely achievable if i can stay focussed, and remember this isn't necessarily the final version, but the kind of festival preview version. so, things to do, in the big picture sense:
+20/9/20: make a rough, proof of concept version of these features so I know for sure I can achieve it.....
